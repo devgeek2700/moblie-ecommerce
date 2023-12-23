@@ -1,0 +1,53 @@
+nav {
+  display: flex;
+  border-bottom: 2px solid #f3f3f3;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  z-index: 999;
+  margin-left: 2rem;
+}
+
+input {
+  padding: 12px 20px;
+  border: none;
+  background: #f7f6f6;
+  outline: none;
+  margin-right: 20px;
+  border-radius: 5px;
+  position: relative;
+  width: 14rem;
+}
+
+.nav-icons {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-left: 2rem;
+}
+
+.curve {
+  background: #0069eb;
+  color: #fff;
+  border-radius: 6px;
+  border: none;
+  font-size: 14px;
+  padding: 10px 15px;
+  text-decoration: none; 
+  margin-left: 10px;
+}
+
+
+#username{
+  font-size: 16px;
+  margin-left: 10px;
+  text-decoration: underline;
+  padding-top: 20px;
+  color: brown;
+
+}
+
+.profile-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
