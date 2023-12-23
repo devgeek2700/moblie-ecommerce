@@ -25,7 +25,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/devgeek2700/Search-filter-Pet-s-shop-with-OAuth0.git
+   git clone https://github.com/devgeek2700/moblie-ecommerce.git
    ```
 
 2. Install the project dependencies:
